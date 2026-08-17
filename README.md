@@ -1,5 +1,4 @@
-# Dynamic-pricing-analytics-ML-Acceptance-prediction-
-# Urban-mobility-platform
+# Dynamic-pricing-analytics-ML-Acceptance-prediction-<br> (Urban-mobility-platform)
 
 ## 📌 1. Project Context & Business Overview
 In ride-hailing platforms, **Dynamic Pricing (Surge Multiplier)** is the primary mechanism to balance real-time demand and driver supply. When demand spikes (e.g., peak rush hours, rainstorms, concerts) or driver supply drops, prices automatically scale upwards by a multiplier (e.g., 1.2x to 4.5x).
